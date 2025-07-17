@@ -1,4 +1,4 @@
-const CACHE_NAME = 'geminilauncher-pwa-cache-v1';
+const CACHE_NAME = 'metalauncher-pwa-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',
